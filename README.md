@@ -16,12 +16,12 @@
 💬 Ask me about anything **either I'll recall or I'll learn**
 <br>
 📫 How to reach me **abdulrashid987655@gmail.com**
-  <br>
-All of my projects are available at [https://abdulrashid06.github.io/](https://abdulrashid06.github.io/)
+<!--   <br>
+All of my projects are available at [https://abdulrashid06.github.io/](https://abdulrashid06.github.io/) -->
 
   
-<!-- ## Portfolio :
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abdulrashid06.github.io) -->
+## Portfolio :
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abdulrashid06.github.io/)
 
   
 ## 🌐 Socials:
