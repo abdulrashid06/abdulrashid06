@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png)](https://abdulrashid06.github.io)
+[![MasterHead](https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg)](https://abdulrashid06.github.io)
 ### Hi 👋, I'm Abdul Rashid
 
 <h3> A passinated Backend Developer from India <h3>
